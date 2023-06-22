@@ -10,7 +10,8 @@ CSS: Flexbox e layouts responsivos na Alura!
  <p>Foi realizado os responsivos nas versões MOBILE, TABLET e DESKTOP</p>
 
 <p align="center">
-<img alt="Projeto responsividade AluraPlay" src=".github/AluraPlayMobile.jpg" width="100%">
+<img alt="Projeto responsividade AluraPlay" src=".github/AluraPlayMobile.jpg" width="50%">
+
 
 ## Tecnologias
 
@@ -20,5 +21,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 ## Link da página do projeto <br>
-<a href="#">Visite o AluraPlay</a>
+<a href="https://rsantosmartins.github.io/AluraPlay/">Visite o AluraPlay</a>
 
